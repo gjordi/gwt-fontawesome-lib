@@ -1,0 +1,15 @@
+<module>
+
+	<!-- Required modules. -->
+	<inherits name="com.google.gwt.user.User" />
+
+	<!-- Style sheets. -->
+	<stylesheet src="fontawesome/css/fontawesome.min.css" />
+
+	<!-- Source paths. -->
+	<source path="client" />
+
+	<!-- Entry point -->
+	<entry-point class="com.bytebybyte.gwt.fontawesome.client.FontAwesomeLibConfigurerEntryPoint" />
+
+</module>
