@@ -4,7 +4,7 @@
 	<inherits name="com.google.gwt.user.User" />
 
 	<!-- Style sheets. -->
-	<stylesheet src="fontawesome/css/fontawesome.min.css" />
+	<stylesheet src="fontawesome/css/font-awesome.min.css" />
 
 	<!-- Source paths. -->
 	<source path="client" />
