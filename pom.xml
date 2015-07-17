@@ -4,7 +4,7 @@
 
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>fontawesome-lib</artifactId>
-	<version>4.3.0-SNAPSHOT</version>
+	<version>4.3.0</version>
 
 	<name>Font Awesome Library</name>
 	<description>Font Awesome Library for GWT</description>
@@ -37,7 +37,7 @@
 		<connection>scm:git:git@github.com:gjordi/gwt-fontawesome-lib.git</connection>
 		<developerConnection>scm:git:git@github.com:gjordi/gwt-fontawesome-lib.git</developerConnection>
 		<url>git@github.com:gjordi/gwt-fontawesome-lib.git</url>
-	  <tag>HEAD</tag>
+	  <tag>fontawesome-lib-4.3.0</tag>
   </scm>
 
 	<issueManagement>
