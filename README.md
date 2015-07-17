@@ -11,7 +11,7 @@ Add the dependency to your Maven POM:
 <dependency>
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>fontawesome-lib</artifactId>
-	<version>4.2.0</version>
+	<version>4.3.0</version>
 	<scope>provided</scope>
 </dependency>
 ```
