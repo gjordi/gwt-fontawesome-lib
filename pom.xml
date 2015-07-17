@@ -4,7 +4,7 @@
 
 	<groupId>com.bytebybyte.gwt</groupId>
 	<artifactId>fontawesome-lib</artifactId>
-	<version>4.2.1-SNAPSHOT</version>
+	<version>4.3.0-SNAPSHOT</version>
 
 	<name>Font Awesome Library</name>
 	<description>Font Awesome Library for GWT</description>
